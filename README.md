@@ -1,2 +1,16 @@
-# nodejs-developer-interview
-Interview questions archive for Node.js developers
+# Node.js 개발자 면접 질문 모음 
+
+## 소개 
+
+## PR 규칙
+
+------
+
+## 기술 면접
+
+## 인성 면접 
+
+
+------
+
+## 추천 자료 
